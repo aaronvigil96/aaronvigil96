@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronvigil96&label=Profile%20views&color=0e75b6&style=flat" alt="aaronvigil96" /> </p>
 
-- 🌱 Actualmente estoy estudiando **Java**
-
 - 💬 Preguntame sobre **Backend, React, JavaScript**
 
 - 📫 Como contactarme **aaronvigil96@gmail.com**
