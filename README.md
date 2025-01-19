@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Aaron Vigil</h1>
-<h3 align="center">Estudiando desarrollo fullstack en Egg</h3>
+<h3 align="center">Desarrollador Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronvigil96&label=Profile%20views&color=0e75b6&style=flat" alt="aaronvigil96" /> </p>
 
